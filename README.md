@@ -1,2 +1,6 @@
-# Password-Generator
-Support upper and lower case letters, numbers, special characters, can set the length of the password, and judge the level of generated passwords (weak/medium/strong)
+# 密码生成器
+
+打开即用，支持大小写字母、数字、特殊字符，同时可设置密码长度；
+
+根据21世纪20年代的破译技术推测生成密码强度。
+
